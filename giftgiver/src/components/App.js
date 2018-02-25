@@ -3,8 +3,6 @@ import { Button } from 'react-bootstrap';
 import Gift from './Gift';
 import { max_number } from '../helper';
 
-// Hello
-
 class App extends Component {
   constructor(){
     super();
